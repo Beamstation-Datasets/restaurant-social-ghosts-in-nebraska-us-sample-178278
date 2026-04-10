@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a99ae60d-cc44-48a0-b359-dda7cb8996f6",
+  "id_short": 178278,
+  "published_at": "2026-04-10T19:27:03Z",
+  "repo_name": "restaurant-social-ghosts-in-nebraska-us-sample-178278",
+  "sample_asset_name": "beamstation_178278_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/178278/beamstation_178278_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_records": 4,
+  "sample_sha256": "9e30a4ba282f8878ad5ef79063a792190ca963223904ff15df13b5c59b03d310",
+  "sample_size_bytes": 29416,
+  "total_records": 40
+}
