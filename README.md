@@ -9,9 +9,9 @@
 | Dataset ID | `178278` |
 | Location | Nebraska |
 | Category | Restaurants |
-| Full dataset size | 40 records |
-| Free sample size | 4 records (10.0%) |
-| Last export | 2026-04-08T05:06:54.723690+00:00 |
+| Full dataset size | 43 records |
+| Free sample size | 4 records (9.3%) |
+| Last export | 2026-04-15T09:24:52.428070+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-nebraska-us-sample-178278/releases/download/sample-latest/beamstation_178278_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
