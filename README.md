@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Nebraska, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `178278` |
 | Location | Nebraska |
 | Category | Restaurants |
-| Full dataset size | 43 records |
-| Free sample size | 4 records (9.3%) |
-| Last export | 2026-04-15T09:24:52.428070+00:00 |
+| Full dataset size | 3 records |
+| Free sample size | 1 records (33.33%) |
+| Last export | 2026-04-22T16:48:12.236834+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-nebraska-us-sample-178278/releases/download/sample-latest/beamstation_178278_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
